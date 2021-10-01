@@ -94,7 +94,7 @@ const deleteEvent = async (req = request, res = response) => {
     console.log(error);
     return res.status(500).json({
       ok: false,
-      msg: 'Internal server error',
+      msg: 'Invalid event id',
     });
   }
 };
