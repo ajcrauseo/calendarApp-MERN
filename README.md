@@ -1,3 +1,9 @@
-# Backend MERN - CalendarApp
+# CalendarApp
 
-Backend creado en el curso de React: de cero a experto 
+Apliación que se encarga de guardar eventos en el calendario.
+
+Backend: NodeJS y Express
+
+Base de Datos: MongoDB
+
+Frontend: React, React Router y Redux
